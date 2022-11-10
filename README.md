@@ -6,6 +6,7 @@ while working with vueJS, TailwindCSS and laravel i've noticed that i'm always r
 * Direct interaction with layouts in VueJS.
 * Direct interaction with Vue Router.
 * A clean approach to deal with middlewares on front end.
+* A clean approach to deal with meta titles on front end.
 * Direct interaction with axios as a promised-based HTTP client.
 * Direct interaction with TailwindCSS as a css framework.
 * Default handlers & direct interaction with dark/light mode.
@@ -13,6 +14,7 @@ while working with vueJS, TailwindCSS and laravel i've noticed that i'm always r
 * Direct interaction with localization and languages with helper functions using i18n.
 * Direct interaction with sass as a Css preprocessor.
 * Lazy loaded views & components.
+
 
 # installation
 - download or clone the repo.

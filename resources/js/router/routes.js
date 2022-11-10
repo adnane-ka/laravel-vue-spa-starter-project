@@ -25,6 +25,7 @@ const routes = [
     component: ExampleView,
     meta:{
       middleware: example,
+      title: "Main page"
     }
   },
 
@@ -35,6 +36,7 @@ const routes = [
     component: OtherView,
     meta:{
       middleware: example,
+      title: "Example page"
     }
   },
 
@@ -42,7 +44,8 @@ const routes = [
   { 
     path: '/:pathMatch(.*)*', 
     name: 'not.found',
-    component: NotFoundView
+    component: NotFoundView,
+    title: "404"
   }
 ]
 
