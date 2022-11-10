@@ -1,5 +1,5 @@
 ## why this repo?
-while working with vueJS, TailwindCSS and laravel i've noticed that i'm always repeating some steps that were necessary on initializing a full stack web app that uses laravel as an API and vueJS as a single page application (SPA). so in this repo i've tried to provide functionality for all the needed & common tools to do so and avoide working on the same thing again and again. this starter project provides: 
+while working with vueJS, TailwindCSS and laravel i've noticed that i'm always repeating some steps that were necessary on initializing a full stack web app that uses laravel as an API and vueJS as a single page application (SPA). so in this repo i've tried to provide functionality for all the needed & common tools to do so and avoide working on the same thing again and again so you can directly dig deeper in the actual work. this starter project provides: 
 
 * Custom JSON error handling on backend.
 * Direct interaction with views & components in VueJS.
